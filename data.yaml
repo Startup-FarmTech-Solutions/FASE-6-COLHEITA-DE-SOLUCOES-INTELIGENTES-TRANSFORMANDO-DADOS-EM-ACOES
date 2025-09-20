@@ -1,0 +1,6 @@
+path: /Users/francismaralvesmartinsjunior/Documents/GitHub/fase-6-colheita-de-solucoes-inteligentes-tranformando-dados-em-acoes/dataset
+train: train
+val: val
+test: test
+nc: 2
+names: ['classeA','classeB']

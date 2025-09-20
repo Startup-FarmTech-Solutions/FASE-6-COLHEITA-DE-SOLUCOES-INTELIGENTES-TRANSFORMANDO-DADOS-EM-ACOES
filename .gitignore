@@ -1,0 +1,58 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~  # backups temporários
+
+# --- Virtual env ---
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+*.virtualenv
+
+# --- Logs & cache ---
+*.log
+*.out
+*.tmp
+*.swp
+*.DS_Store
+*.cache/
+*.pytest_cache/
+*.mypy_cache/
+*.coverage
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- YOLOv5 outputs ---
+runs/           # pastas de treino/detecção
+*.pt            # pesos treinados (best.pt, last.pt)
+*.onnx
+*.engine
+*.tflite
+*.torchscript
+*.mlmodel
+pbl_fase6_env/
+yoloy5/
+
+# --- Dados grandes ---
+*.zip
+*.tar
+*.gz
+
+# --- Colab/Notebooks temporários ---
+/content/
+drive/

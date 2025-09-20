@@ -84,7 +84,3 @@
 1. YOLO é uma abordagem de **detecção em tempo real** com grade única.
 2. Métricas adequadas (mAP, Precision/Recall) são essenciais para comparar modelos.
 3. **Transfer learning** acelera projetos e evita overfitting quando os dados são limitados.
-
----
-
-
