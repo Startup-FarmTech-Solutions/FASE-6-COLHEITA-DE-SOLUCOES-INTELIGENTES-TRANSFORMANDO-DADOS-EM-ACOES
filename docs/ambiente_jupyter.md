@@ -1,5 +1,3 @@
----
-
 # 📌 Guia de Ambiente – Jupyter + YOLOv5
 
 ## 1. Preparar ambiente Python
